@@ -1,4 +1,4 @@
-package com.example.activity21
+package com.example.activity3
 
 import org.junit.Test
 
